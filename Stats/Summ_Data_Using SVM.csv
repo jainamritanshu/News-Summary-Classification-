@@ -1,0 +1,8 @@
+class,f1_score,precision,recall,support
+ business,0.88,0.82,0.95,213.0
+entertainment,0.89,0.92,0.87,141.0
+ politics,0.91,0.95,0.87,174.0
+sport,0.97,0.97,0.98,206.0
+ tech,0.9,0.94,0.86,156.0
+,,,,
+avg / total,0.91,0.92,0.91,890.0
